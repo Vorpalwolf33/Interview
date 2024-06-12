@@ -1,2 +1,7 @@
-Command to start frontend: npm start
-Command to start backend: npm start
+Command to start frontend: 
+cd client
+npm start
+
+Command to start backend: 
+cd backend
+npm start
